@@ -1,7 +1,7 @@
 import React from "react";
 // import Main from "./components/Main/Main";
 import './App.css'
-import Footer from './components/Footer/Footer';
+import Footer from './components/NewWork/Footer';
 import Header from './components/NewWork/Header'
 import Content from "./components/NewWork/Content";
 
