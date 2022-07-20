@@ -17,13 +17,13 @@ const Main = (props) => {
     // console.log("setState in formHandeler SavedFormData:");
     // console.log(SavedFormData);
   };
-  let Question = [
-    <div>
-      I Still dont get it!! State loging empty array on console but code is
-      running just fine <br/>
-      ooh i get it now my bad i was logging in form handeler func() outside it works fine 
-    </div>,
-  ];
+  // let Question = [
+  //   <div>
+  //     I Still dont get it!! State loging empty array on console but code is
+  //     running just fine <br/>
+  //     ooh i get it now my bad i was logging in form handeler func() outside it works fine 
+  //   </div>,
+  // ];
   console.log("setState SavedFormData:");
   console.log(SavedFormData);
   return (
