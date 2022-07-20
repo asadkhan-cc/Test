@@ -1,8 +1,12 @@
 import React from "react";
 // import Main from "./components/Main/Main";
-import "./App.css";
+import './App.css'
+import Footer from './components/Footer/Footer';
 import Header from './components/NewWork/Header'
 import Content from "./components/NewWork/Content";
+
+
+
 
 function App() {
   return (
@@ -11,6 +15,9 @@ function App() {
       {/* <Main className="App-header"></Main> */}
       <Content></Content>
 
+    {/* <Main className="App-header"></Main> */}
+
+      <Footer></Footer>    
     </div>
   );
 }
