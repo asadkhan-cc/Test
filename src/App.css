@@ -36,3 +36,28 @@
     transform: rotate(360deg);
   }
 }
+.header{
+  
+display: flex;
+
+list-style-type: none !important;
+background-color: red;
+padding: 0px 10px;
+}
+.header li{ 
+  
+  display: flex;
+  
+  list-style-type: none !important;
+  background-color: red;
+  padding: 10px 10px;
+  margin : auto ,auto ;
+  }
+.header span{
+  margin-right: auto;
+  margin-left: auto;
+  text-align: center;
+  margin-top: auto;
+  margin-bottom: auto;
+
+  }

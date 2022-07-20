@@ -1,12 +1,19 @@
-import React from 'react'
+import React from "react";
 // import Main from "./components/Main/Main";
 import './App.css'
 import Footer from './components/Footer/Footer';
-function App() {
+import Header from './components/NewWork/Header'
+import Content from "./components/NewWork/Content";
 
-  
+
+
+
+function App() {
   return (
-    <div >
+    <div>
+      <Header></Header>
+      {/* <Main className="App-header"></Main> */}
+      <Content></Content>
 
     {/* <Main className="App-header"></Main> */}
 
