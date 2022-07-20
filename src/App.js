@@ -6,7 +6,7 @@ function App() {
   
   return (
     <div >
-
+      <header>this is a nav bar</header>
     {/* <Main className="App-header"></Main> */}
     </div>
   );
