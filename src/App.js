@@ -6,9 +6,7 @@ function App() {
   
   return (
     <div >
-      <header>
-        This Is A Header
-      </header>
+
     {/* <Main className="App-header"></Main> */}
     </div>
   );
